@@ -1,0 +1,3 @@
+com\calculator\jsf\CalculatorBean.class
+com\calculator\ejb\CalculatorService.class
+com\calculator\ejb\CalculatorServiceBean.class
